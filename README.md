@@ -59,6 +59,8 @@ To allow peer request part of block it must send hash pairs chain from root to p
 
 Order: root hash 1 (1 level); hash 3, hash 2 (2 level); hash 5, hash 4  (3 level);
 
+Requested block with hash 4
+
 ## Hashlist request/responce
 
 For types (05-06):
