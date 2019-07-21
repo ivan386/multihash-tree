@@ -9,7 +9,7 @@ https://github.com/multiformats/multihash/issues/55
 
 0x0400 - Merkle Hash Tree (1024 decimal) multicodec value 
 
-For types (01-03):
+For types (01-06):
 * Data segment size - 1024 bytes
 * Data prefix - one byte with value 0 (0x00)
 * Hash pair prefix - one byte with value 1 (0x01)
